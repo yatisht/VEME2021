@@ -133,3 +133,4 @@ matUtils extract -i AY2_optimized.pb -T 4 -j AY2_optimized.json
 ```
 ripples -i example_1_placed.pb -T 4 -s samples_of_interest.txt 
 ```
+Files to view: `recombination.tsv` and `descendants.tsv`
