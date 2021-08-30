@@ -134,3 +134,23 @@ matUtils extract -i AY2_optimized.pb -T 4 -j AY2_optimized.json
 ripples -i example_1_placed.pb -T 4 -s samples_of_interest.txt 
 ```
 Files to view: `recombination.tsv` and `descendants.tsv`
+
+# References
+**UShER:**
+* Yatish Turakhia, Bryan Thornlow, Angie S Hinrichs, Nicola de Maio, Landen Gozashti, Robert Lanfear, David Haussler, and Russ Corbett-Detig, "Ultrafast Sample placement on Existing tRees (UShER) enables real-time phylogenetics for the SARS-CoV-2 pandemic", Nature Genetics (2021) [paper](https://t.co/ulGUSRmuWv?amp=1).
+
+**matUtils:**
+* Jakob McBroome*, Bryan Thornlow*, Angie S. Hinrichs, Nicola De Maio, Nick Goldman, David Haussler, Russell Corbett-Detig, Yatish Turakhia, "A daily-updated database and tools for comprehensive SARS-CoV-2 mutation-annotated trees", bioRxiv (2021), [preprint](https://www.biorxiv.org/content/10.1101/2021.04.03.438321v2)
+
+**RIPPLES:**
+* Yatish Turakhia*, Bryan Thornlow*, Angie S. Hinrichs, Jakob McBroome, Nicolas Ayala, Cheng Ye, Nicola De Maio, David Haussler, Russell Corbett-Detig, "Pandemic-Scale Phylogenomics Reveals Elevated Recombination Rates in the SARS-CoV-2 Spike Region", bioRxiv (2021), [preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.455157v1)
+
+
+**Masking recomendations:**
+* Yatish Turakhia, Nicola De Maio, Bryan Thornlow, Landen Gozashti, Robert Lanfear, Conor R. Walker, Angie S. Hinrichs, Jason D. Fernandes, Rui Borges, Greg Slodkowicz, Lukas Weilguny, David Haussler, Nick Goldman and Russell Corbett-Detig, "Stability of SARS-CoV-2 Phylogenies", PLOS Genetics 2020 [paper](https://doi.org/10.1371/journal.pgen.1009175).
+
+**matOptimize**
+* Coming soon.
+
+**Taxodium**
+* Expected soon (check https://github.com/theosanderson/taxodium for updates).
