@@ -135,6 +135,9 @@ ripples -i example_1_placed.pb -T 4 -s samples_of_interest.txt
 ```
 Files to view: `recombination.tsv` and `descendants.tsv`
 
+## UShER Web Tool
+* Upload example1_typical_use_case.fasta to https://genome.ucsc.edu/cgi-bin/hgPhyloPlace.
+
 # References
 **UShER:**
 * Yatish Turakhia, Bryan Thornlow, Angie S Hinrichs, Nicola de Maio, Landen Gozashti, Robert Lanfear, David Haussler, and Russ Corbett-Detig, "Ultrafast Sample placement on Existing tRees (UShER) enables real-time phylogenetics for the SARS-CoV-2 pandemic", Nature Genetics (2021) [paper](https://t.co/ulGUSRmuWv?amp=1).
