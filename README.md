@@ -154,3 +154,6 @@ Files to view: `recombination.tsv` and `descendants.tsv`
 
 **Taxodium**
 * Expected soon (check https://github.com/theosanderson/taxodium for updates).
+
+**Wiki**
+* https://usher-wiki.readthedocs.io/
